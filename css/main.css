@@ -1,0 +1,8 @@
+.team{
+   margin-left: 220px !important; 
+}
+
+.btn:hover{
+   background-color: lightblue !important;
+   border: lightblue !important;
+}
